@@ -1,4 +1,4 @@
-p2pserver
+Peer to peer chat server in Java
 =========
 
-Software engineering project for Avishkar 2013 for Peer to peer local chat server
+Software engineering project for Peer to peer local chat server made during Avishkar, MNNIT's technical fest. To start, run p2p.java file in Netbeans.
