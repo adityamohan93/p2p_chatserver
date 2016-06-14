@@ -1,0 +1,6 @@
+{
+  "name": "P2P chatserver",
+  "tagline": "",
+  "body": "Peer to peer chat server in Java\r\n=========\r\n\r\n##Software engineering project for Peer to peer local chat server made during Avishkar, MNNIT's technical fest. \r\n###To start, run p2p.java file in Netbeans.\r\n\r\n###A simple chat application which runs on multiple systems with one system acting as a server for the chat.\r\nTested on LAN and wireless networks.\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
